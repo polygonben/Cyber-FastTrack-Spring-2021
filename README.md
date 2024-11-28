@@ -46,8 +46,8 @@ These have been organized in order they appear on the site:
 ### Forensics
 | Easy | Medium | Hard |
 |------|--------|------|
-|[FE01](Forensics/FE01)|[FM01](Forensics/FM01)|[FH01](Forensics/FH01)|
-|[FE02](Forensics/FE02)|[FM02](Forensics/FM02)||
+|[FE01](Forensics/FE01)|[FM01 - Completed](Forensics/FM01)|[FH01](Forensics/FH01)|
+|[FE02](Forensics/FE02)|[FM02  - Completed](Forensics/FM02)||
 |[FE03](Forensics/FE03)|[FM03](Forensics/FM03)||
 |[FE04](Forensics/FE04)|||
 
